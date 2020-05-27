@@ -1,0 +1,4 @@
+com.example.android.trackmysleepquality.test
+style InstrumentationActivityInvokerBootstrapActivityTheme
+style InstrumentationActivityInvokerEmptyActivityTheme
+style InstrumentationActivityInvokerFloatingActivityTheme
